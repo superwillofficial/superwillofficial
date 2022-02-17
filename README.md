@@ -1,17 +1,23 @@
-<p align="center">
-    Hi! 👋 I am Will
+​    Hi! 👋 I am **Will**
 
-    Welcome to my GitHub.
 
-    I love Volleyball🏐
+​    Welcome to my GitHub.
 
-    I love music🎵
 
-    I love Freedom🌏
+​    I love Volleyball🏐
 
-    My current work focuses on Front-end
 
-    to provide better using experience.
+​    I love music🎵
 
-    I am looking forward to working in Australia🇦🇺.
-</p>
+
+​    I love Freedom🌏
+
+
+
+​    My current work focuses on **Front-end**
+
+​    to provide better using experience.
+
+
+
+​    I am looking forward to working in **Australia**🇦🇺.
